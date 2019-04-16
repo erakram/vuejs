@@ -1,6 +1,6 @@
 # vuejs-project
 
-> A Vue.js project
+> A Vue.js project with many features
 
 ## Build Setup
 
